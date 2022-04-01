@@ -1,0 +1,202 @@
+food_type	weight_of_food_in_kg
+Cake	2.559
+Pizza	3.2875
+Ramen noodles	3.459
+Cake	3.169
+Pizza	3.6475
+Ramen noodles	3.6475
+Cake	2.5755
+Cake	2.5975
+Cake	2.674
+Cake	2.6945
+Cake	2.6995
+Pizza	2.7495
+Cake	2.786
+Cake	2.786
+Cake	3.0475
+Cake	3.0945
+Cake	3.1145
+Cake	3.1145
+Cake	3.1475
+Cake	3.1885
+Cake	3.2395
+Cake	3.244
+Cake	3.2645
+Pizza	3.3245
+Cake	3.3345
+Pizza	3.346
+Pizza	3.346
+Pizza	3.3475
+Pizza	3.3925
+Cake	3.3975
+Pizza	3.4245
+Cake	3.4275
+Pizza	3.469
+Pizza	3.4945
+Cake	3.5265
+Pizza	3.5495
+Pizza	3.563
+Cake	3.5645
+Cake	3.599
+Pizza	3.6495
+Ramen noodles	3.6745
+Pizza	3.6975
+Ramen noodles	3.7315
+Pizza	3.7495
+Cake	3.8015
+Pizza	3.8045
+Pizza	3.8045
+Cake	3.8445
+Pizza	3.869
+Pizza	3.8875
+Pizza	3.8875
+Cake	3.894
+Cake	3.8995
+Cake	3.9475
+Pizza	3.949
+Ramen noodles	3.949
+Cake	3.9785
+Cake	3.9785
+Pizza	3.9875
+Pizza	3.9975
+Ramen noodles	3.9995
+Ramen noodles	4.0065
+Pizza	4.029
+Pizza	4.0945
+Pizza	4.0975
+Cake	4.119
+Cake	4.1245
+Cake	4.179
+Cake	4.2245
+Pizza	4.2475
+Pizza	4.2475
+Cake	4.2495
+Pizza	4.279
+Ramen noodles	4.389
+Cake	4.4225
+Pizza	4.4225
+Ramen noodles	4.4605
+Ramen noodles	4.4605
+Pizza	4.474
+Cake	4.4745
+Cake	4.5475
+Pizza	4.6165
+Pizza	4.629
+Pizza	4.6395
+Pizza	4.6395
+Ramen noodles	4.6475
+Pizza	4.649
+Pizza	4.7475
+Cake	4.769
+Pizza	4.7745
+Cake	4.8195
+Cake	4.9475
+Cake	4.9795
+Pizza	4.98
+Cake	4.99
+Cake	4.994
+Cake	4.9945
+Pizza	4.9975
+Ramen noodles	5.099
+Pizza	5.1225
+Pizza	5.1475
+Pizza	5.1725
+Cake	5.2975
+Pizza	5.349
+Pizza	5.3975
+Pizza	5.449
+Cake	5.4725
+Cake	5.524
+Cake	5.5995
+Cake	5.6225
+Cake	5.624
+Pizza	5.6295
+Cake	5.7745
+Cake	5.7975
+Ramen noodles	5.847
+Cake	5.9225
+Cake	5.925
+Pizza	5.95
+Pizza	6.085
+Ramen noodles	6.145
+Ramen noodles	6.22
+Cake	6.3145
+Cake	6.382
+Pizza	6.47
+Pizza	6.4725
+Cake	6.482
+Pizza	6.6
+Pizza	6.6475
+Ramen noodles	6.7075
+Cake	6.7475
+Pizza	6.7495
+Pizza	6.7495
+Cake	6.8225
+Pizza	6.9225
+Ramen noodles	6.93
+Pizza	6.975
+Ramen noodles	7.1995
+Cake	7.2445
+Cake	7.4345
+Cake	7.52
+Pizza	7.625
+Pizza	7.755
+Pizza	7.79
+Cake	7.8225
+Pizza	7.845
+Ramen noodles	7.875
+Pizza	7.9925
+Cake	7.999
+Pizza	8.215
+Cake	8.25
+Cake	8.25
+Cake	8.2515
+Ramen noodles	8.2575
+Cake	8.279
+Pizza	8.315
+Ramen noodles	8.3475
+Pizza	8.4225
+Pizza	8.45
+Pizza	8.4625
+Ramen noodles	8.5375
+Cake	8.5995
+Pizza	8.725
+Cake	8.8345
+Pizza	8.855
+Pizza	8.975
+Cake	9.075
+Pizza	9.075
+Pizza	9.14
+Pizza	9.172
+Cake	9.1995
+Pizza	9.21
+Pizza	9.31
+Ramen noodles	9.46
+Ramen noodles	9.475
+Pizza	9.5225
+Cake	9.8495
+Pizza	10.485
+Pizza	10.5525
+Pizza	10.7425
+Cake	11.009
+Pizza	11.235
+Pizza	11.3125
+Pizza	11.9375
+Pizza	12.2825
+Pizza	12.776
+Cake	14.088
+Ramen noodles	14.124
+Pizza	15.38
+Pizza	15.8
+Pizza	16.125
+Cake	16.264
+Cake	17.014
+Pizza	17.092
+Cake	17.528
+Pizza	17.775
+Pizza	18
+Pizza	18.44
+Cake	18.514
+Pizza	20.48
+Pizza	20.6575
+Cake	22.7
