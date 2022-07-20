@@ -1,0 +1,51 @@
+creatures	strength_before	strength_after	strength_difference	spell
+Robot doll	7	6	1	Deprimo
+Medusa	8	8	0	Deprimo
+Chimaera	8	7	1	Impedimenta
+Demiguise	8	7	1	Impedimenta
+Imp	8	4	4	Impedimenta
+Flesh-Eating Slug	8	4	4	Deprimo
+Jackalope	8	2	6	Impedimenta
+Alizor of Westacottus	9	9	0	Deprimo
+Demiguise	9	8	1	Deprimo
+Diricawl	9	8	1	Deprimo
+Horklump	9	4	5	Impedimenta
+Jarvey	9	3	6	Impedimenta
+Kneazle	9	2	7	Impedimenta
+Ashwinder	10	10	0	Impedimenta
+Augurey	10	10	0	Impedimenta
+Basilisk	10	10	0	Impedimenta
+Bicorn	10	10	0	Impedimenta
+Billywig	10	10	0	Deprimo
+Briar Toad	10	10	0	Deprimo
+Bundimun	10	10	0	Deprimo
+Centaur	10	10	0	Deprimo
+Chimaera	10	10	0	Deprimo
+Chizpurfle	10	10	0	Deprimo
+Chupacabra[4]	10	10	0	Deprimo
+Clabbert	10	10	0	Deprimo
+Coco Rumsey Catcher	10	10	0	Deprimo
+Double-ended Newt[5]	10	9	1	Impedimenta
+Doxy	10	9	1	Deprimo
+Dragon toad	10	9	1	Deprimo
+Dugbog	10	8	2	Deprimo
+Erkling	10	7	3	Deprimo
+Fwooper	10	6	4	Impedimenta
+Ghoul	10	6	4	Deprimo
+Horned Serpent	10	5	5	Impedimenta
+Horned slug	10	5	5	Impedimenta
+Imp	10	5	5	Impedimenta
+Imperial Dragonfly	10	5	5	Deprimo
+Jobberknoll	10	4	6	Impedimenta
+Kappa	10	4	6	Impedimenta
+Kelpie	10	4	6	Impedimenta
+Knarl	10	4	6	Impedimenta
+Large spider	10	3	7	Impedimenta
+Leprechaun	10	3	7	Impedimenta
+Lethifold	10	2	8	Impedimenta
+Leucrotta	10	2	8	Impedimenta
+Limax	10	2	8	Impedimenta
+Lobalug	10	0	10	Impedimenta
+Mackled Malaclaw	10	0	10	Impedimenta
+Manticore	10	0	10	Impedimenta
+Sphinx	10	0	10	Impedimenta
